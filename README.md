@@ -9,7 +9,5 @@
 ### 别白嫖，再白嫖都没动力弄好东西了😭😭😭🥹
 
 
-![contents](./img/1.png)
-![contents](./img/2.png)
-![contents](https://raw.github.com/Yeely0162/Wled_Controller_3D_Model/edit/main/img/2.png)
-![contents](./img/3.png)
+![](https://dsm.yeely.top:3/images/2023/01/03/202301031910065.png)
+![](https://dsm.yeely.top:3/images/2023/01/03/202301031911260.png)
