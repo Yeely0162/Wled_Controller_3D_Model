@@ -11,4 +11,4 @@
 
 ![](/img/1.png)
 ![img](https://raw.githubusercontent.com/Yeely0162/Wled_Controller_3D_Model/main/img/2.png)
-![img](https://raw.githubusercontent.com/Yeely0162/Wled_Controller_3D_Model/main/img/3.png)
+![img](./img/3.PNG)
