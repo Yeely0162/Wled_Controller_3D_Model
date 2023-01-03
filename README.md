@@ -8,8 +8,7 @@
 
 ### 别白嫖，再白嫖都没动力弄好东西了😭😭😭🥹
 
-<img src="./img/1.png" style="zoom:80%;" />
 
-<img src="./img/2.png" style="zoom:75%;" />
-
-<img src="./img/3.png" style="zoom:100%;" />
+![contents](./img/1.png)
+![contents](./img/2.png)
+![contents](./img/3.png)
