@@ -11,5 +11,4 @@
 
 ![](https://dsm.yeely.top:3/images/2023/01/03/202301031910065.png)
 ![](https://dsm.yeely.top:3/images/2023/01/03/202301031911260.png)
-<img src="https://github.com/Yeely0162/Wled_Controller_3D_Model/tree/main/img/2.jpg" width="50%">
-![](https://raw.githubusercontent.com/Yeely0162/Wled_Controller_3D_Model/main/img/1.png)
+![](https://raw.githubusercontent.com/Yeely0162/Wled_Controller_3D_Model/main/img/2.png)
